@@ -1,7 +1,7 @@
 ## Índice de desafios
 
-- [02 - Conceitos do Node.js](02-conceitos-nodejs/)
-- 03 - Conceitos do ReactJS
+- [02 - Conceitos do Node.js](02-conceitos-nodejs/README.md)
+- [03 - Conceitos do ReactJS](03-conceitos-reactjs/README.md)
 - 04 - Conceitos do React Native
 - 05 - Fundamentos do Node.js
 - 06 - Banco de dados e upload de arquivos no Node.js
