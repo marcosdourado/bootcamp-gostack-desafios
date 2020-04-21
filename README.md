@@ -1,6 +1,6 @@
 ## Índice de desafios
 
-- [02 - Conceitos do Node.js](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
+- [02 - Conceitos do Node.js](02-conceitos-nodejs/)
 - 03 - Conceitos do ReactJS
 - 04 - Conceitos do React Native
 - 05 - Fundamentos do Node.js
