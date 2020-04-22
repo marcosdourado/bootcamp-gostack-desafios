@@ -1,4 +1,4 @@
-# Conceitos ReactJS
+# Conceitos React Native
 
 ### Instalação:
 
@@ -9,7 +9,7 @@ yarn
 Para executar o projeto:
 
 ```
-yarn start
+yarn android
 ```
 
 Para executar os testes:
