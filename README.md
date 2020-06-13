@@ -6,7 +6,7 @@
 - [05 - Fundamentos do Node.js](05-fundamentos-node/README.md)
 - [06 - Banco de dados e upload de arquivos no Node.js](06-typeorm-upload/README.md)
 - [07 - Fundamentos do ReactJS](07-fundamentos-reactjs/README.md)
-- 08 - Fundamentos do React Native
+- [08 - Fundamentos do React Native](08-fundamentos-react-native/README.md)
 - 09 - Relacionamentos com banco de dados no Node.js
 - 10 - CRUD no ReactJS
 
