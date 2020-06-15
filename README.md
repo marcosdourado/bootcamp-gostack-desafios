@@ -8,7 +8,7 @@
 - [07 - Fundamentos do ReactJS](07-fundamentos-reactjs/README.md)
 - [08 - Fundamentos do React Native](08-fundamentos-react-native/README.md)
 - [09 - Relacionamentos com banco de dados no Node.js](09-typeorm-relations/README.md)
-- 10 - CRUD no ReactJS
+- [10 - CRUD no ReactJS](10-reactjs-crud/README.md)
 
 ## :memo: Licença
 
