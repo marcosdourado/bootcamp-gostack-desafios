@@ -9,6 +9,7 @@
 - [08 - Fundamentos do React Native](08-fundamentos-react-native/README.md)
 - [09 - Relacionamentos com banco de dados no Node.js](09-typeorm-relations/README.md)
 - [10 - CRUD no ReactJS](10-reactjs-crud/README.md)
+- [11 - Navegação e filtros no React Native](11-react-native-filtros/README.md)
 
 ## :memo: Licença
 
